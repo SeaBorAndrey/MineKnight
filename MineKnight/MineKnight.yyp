@@ -103,6 +103,22 @@
             }
         },
         {
+            "Key": "449f02ee-564e-4576-a734-106cc8d641e6",
+            "Value": {
+                "id": "4f111a66-9766-4415-b02f-57aea748837a",
+                "resourcePath": "sounds\\beliver_pascal\\beliver_pascal.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "56f509ef-40dd-4207-a3d0-d84122ce5124",
+            "Value": {
+                "id": "357e53fb-50b3-4b61-9f55-71559273ed29",
+                "resourcePath": "sprites\\cloud\\cloud.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "578ef78c-71b4-4a46-abe2-03cd213f8970",
             "Value": {
                 "id": "c1d8f52f-db9a-4506-a626-4d81bd974bc4",
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "899f5cd2-9260-49a6-a2f6-cdf57ef8efb5",
+            "Value": {
+                "id": "aafc2606-392e-4daa-b433-a13a5e82365b",
+                "resourcePath": "objects\\obj_cloud\\obj_cloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8a9b5595-ab31-4b16-af68-9978ee8fd868",
             "Value": {
                 "id": "3a993ad5-67b0-4a90-859f-9da4a5afe13d",
@@ -188,6 +212,14 @@
                 "id": "65b81911-003f-4c56-8177-b414282f0192",
                 "resourcePath": "views\\b99ee16a-f899-42d0-8522-5c5b9cd45c4a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba4ab711-c38c-49b3-8ee8-3b3af601dd3b",
+            "Value": {
+                "id": "175d5abd-d3c6-434b-b6ac-563e982c60a7",
+                "resourcePath": "sprites\\knight_left\\knight_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,10 +263,18 @@
             }
         },
         {
+            "Key": "e6399a8e-a3c6-403e-b0e8-c6bd33d2f7f9",
+            "Value": {
+                "id": "530aab76-323e-43bf-b123-bb076cddc413",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e9db720e-c715-4f82-91fa-dec1076bbfd0",
             "Value": {
                 "id": "dab6ccb9-4b28-4912-8a28-95313732f3c1",
-                "resourcePath": "sprites\\knight\\knight.yy",
+                "resourcePath": "sprites\\knight_right\\knight_right.yy",
                 "resourceType": "GMSprite"
             }
         }
