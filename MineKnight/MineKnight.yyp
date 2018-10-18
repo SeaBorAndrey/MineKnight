@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "44fb9024-5d09-40ca-839b-2bb0acfc3b5d",
+            "Value": {
+                "id": "16b96248-d563-4db9-9527-5907ce1cda16",
+                "resourcePath": "objects\\obj_castle\\obj_castle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "56f509ef-40dd-4207-a3d0-d84122ce5124",
             "Value": {
                 "id": "357e53fb-50b3-4b61-9f55-71559273ed29",
@@ -154,7 +162,7 @@
             "Key": "64f1c6c0-8caf-4973-b0bc-b54f88951794",
             "Value": {
                 "id": "956182b1-0cc2-4707-b9f1-80410a34e12d",
-                "resourcePath": "rooms\\battle\\battle.yy",
+                "resourcePath": "rooms\\lvl_one\\lvl_one.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -199,11 +207,35 @@
             }
         },
         {
+            "Key": "9940483a-d4b5-478e-9fe8-a02b49a1a689",
+            "Value": {
+                "id": "94bb27cf-fdba-4816-a76d-a2052119ab35",
+                "resourcePath": "sprites\\castle\\castle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9aa5b8d4-9b66-4a59-a285-8aa0fb0752a1",
+            "Value": {
+                "id": "8d603516-2887-448c-b0a0-0fea94637df9",
+                "resourcePath": "objects\\obj_stone\\obj_stone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a6397722-cf3f-45d7-b109-e09df0b2e075",
             "Value": {
                 "id": "8e989e76-2a7d-4ac2-900f-c33f01d1cb6e",
                 "resourcePath": "views\\a6397722-cf3f-45d7-b109-e09df0b2e075.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a6822c88-3286-4be8-b804-086b5003c87a",
+            "Value": {
+                "id": "3b5cacc7-0ef1-4522-9d16-fb4aa680d061",
+                "resourcePath": "sprites\\stone\\stone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,11 +287,27 @@
             }
         },
         {
+            "Key": "d0d36b6a-98c7-4358-934e-76d0d5af3158",
+            "Value": {
+                "id": "970cdaf5-2e0a-4d7c-a135-d52305f24fd0",
+                "resourcePath": "sprites\\knight_right_fight\\knight_right_fight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d2bae542-e8e2-44c0-833a-ae57a63671d8",
             "Value": {
                 "id": "a616d8a9-2782-4b0d-8a1a-bb04e4c3ad19",
                 "resourcePath": "objects\\obj_dirt_1\\obj_dirt_1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e349be05-4fc5-439e-9e32-6cbcb80f5c51",
+            "Value": {
+                "id": "a15194d4-9999-476b-a791-d615793e61b9",
+                "resourcePath": "sprites\\knight_left_fight\\knight_left_fight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
