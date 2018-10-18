@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "6776bdb2-f913-4d0c-ab59-0c039318e5ee",
+            "Value": {
+                "id": "5c608c32-f625-4cff-bff8-8e3f48a5ade6",
+                "resourcePath": "objects\\obj_mario_door\\obj_mario_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "69dedd47-bb85-4c1b-bed1-de137c29c8c2",
             "Value": {
                 "id": "6cbc73e7-a68c-4bf4-b5fb-5d48b51fbd59",
@@ -188,6 +196,14 @@
                 "id": "25fe30cf-aeff-4e62-bab1-c6821c0ca2db",
                 "resourcePath": "views\\732b37b0-d014-4d65-a373-cb4454a3a8cf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "846cdecf-7362-42de-adaf-4f13068e882f",
+            "Value": {
+                "id": "06eea107-bee8-4ef3-86d1-5f7d051b4bbb",
+                "resourcePath": "sprites\\mario_door\\mario_door.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
