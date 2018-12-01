@@ -2,7 +2,7 @@
     "id": "6776bdb2-f913-4d0c-ab59-0c039318e5ee",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_mario_door",
+    "name": "obj_door",
     "eventList": [
         {
             "id": "943a766b-8662-4252-9bad-0d7d8ec4af20",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "846cdecf-7362-42de-adaf-4f13068e882f",
+    "spriteId": "72a5ea6f-669f-4cb6-b1a0-54ff8cc9342c",
     "visible": true
 }
